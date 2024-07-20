@@ -7,9 +7,7 @@ This repository contains code and resources for predicting customer events using
 - [Introduction](#introduction)
 - [Data Preparation](#data-preparation)
 - [Modeling](#modeling)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
