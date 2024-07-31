@@ -1,6 +1,6 @@
-# Boerschappen Customer Event Prediction
+ # Customer Event Prediction
 
-This repository contains code and resources for predicting customer events using an LSTM model. The dataset consists of customer events from Boerschappen, and the project involves data preparation, feature engineering, model training, and evaluation.
+This repository contains code and resources for predicting customer events using an LSTM model. The dataset consists of customer events, and the project involves data preparation, feature engineering, model training, and evaluation.
 
 ## Table of Contents
 
